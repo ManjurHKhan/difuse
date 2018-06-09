@@ -1,4 +1,4 @@
-# CSE392 Spring 2018 Homework 3 - Protocol
+# Network DiFUSE File System - Protocol
 
 ## Professor Jennifer Wong-Ma
 
